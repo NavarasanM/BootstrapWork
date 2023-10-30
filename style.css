@@ -25,25 +25,6 @@
     font-family: "Roboto";
 }
 
-.banner-section-bg-container {
-    height: 100vh;
-    background-size: cover;
-}
-
-.banner-heading {
-    color: white;
-    font-family: "Roboto";
-    font-size: 45px;
-    font-weight: 300;
-}
-
-.banner-caption {
-    color: #f5f7fa;
-    font-family: "Roboto";
-    font-size: 24px;
-    font-weight: 300;
-}
-
 .custom-button {
     color: white;
     background-color: #d0b200;
